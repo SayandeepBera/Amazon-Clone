@@ -1,0 +1,575 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+    
+}
+
+.navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/** box1 **/
+.nav-logo{
+    height: 50px;
+    width: 110px;
+    margin: 1px;
+    padding: 1px 8px 0px 6px;
+    
+}
+
+.logo{
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/amazon_logo.png);
+    background-size: cover;
+    height: 48px;
+    width: 100px;
+    margin: 1px;
+    padding: 1px 8px 0px 6px;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+}
+
+/** box2 **/
+.add-first{
+    color: #CCCCCC;
+    font-size: 12px;
+    margin: 0px 0px 0px 15px;
+}
+
+.add-second{
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-left: 3px;
+}
+
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+
+.nav-address{
+    margin: 5px 2px 5px 0px;
+    padding: 9px;
+}
+
+/** box3 **/
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 900px;
+    background-color: orange;
+    border-radius: 4px;
+    color: #0f110f;
+    
+}
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+.search-select{
+    width: 55px;
+    background-color: #d5cece;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    text-align: center;
+    color: #3f3f3f;
+}
+
+.search-input{
+    width:100%;
+    font-size: 15px;
+    border: none;
+    padding-left: 5px;
+}
+
+.search-icon{
+    width: 45px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #fab254;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #0f110f;
+}
+
+/** box4 **/
+.language{
+    height: 50px;
+    width: 73.38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flag{
+    height: 16.2px;
+    width: 21.6px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/Flag.webp);
+    background-size: cover;
+}
+
+.search-lang{
+    height: 15px;
+    width: 18.38px;
+    font-size: 14px;
+}
+
+.nav-arrow{
+    height: 4px;
+    width: 8px;
+    font-size: 0.7rem;
+    padding-bottom: 10px;
+    
+}
+
+/** box5 **/
+.nav-signin{
+    padding: 9px;
+}
+
+span{
+    font-size: 12px;
+}
+
+.nav-second{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/** box6 **/
+.nav-order{
+    padding: 9px;
+}
+
+/** box7 **/
+.nav-cart i{
+    font-size: 30px;
+}
+
+.nav-cart{
+    font-weight: 700;
+    font-size: 0.90rem;
+    padding: 9px;
+}
+
+/** Panale **/
+.panale{
+    height: 39px;
+    background-color: #222f3d;
+    display: flex;
+    color:white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panale-all{
+    font-size: 14px;
+    font-weight: 700;
+    padding: 8px;
+}
+
+.panale-all i{
+    font-size: 1.2rem;
+}
+
+.panale-ops{
+    display: flex;
+    width: 93%;
+    font-size: 14px;
+}
+
+.panale-ops p{
+    margin-left: 15px;
+    padding: 8px;
+}
+
+/** Hero Section **/
+.hero-section{
+    height: 600px;
+    width: 1500px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/hero1.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.hero-msg{
+    height: 40px;
+    width: 96%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 350px;
+    font-size: 14px;
+}
+
+.hero-msg a{
+    color: #007185;
+}
+
+.link:hover{
+    color: rgb(243, 55, 55);
+}
+
+/** Shop Section **/
+.shop-section{
+    height:650px;
+    background-color: rgb(235, 229, 229);
+}
+.box{
+    height: 420px;
+    width: 23%;
+    background-color: white;
+}
+
+/* .shop-now{
+    position: relative;
+    color: #007185;
+    right: 200px;
+    font-size: 12px;
+} */
+
+.box h2{
+    font-size: 21px;
+    margin-left: 16px;
+    margin-top: 18px;
+}
+
+/* image tag */
+.box p{
+    font-size: 12px;
+}
+
+.upper-section{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 410px;
+}
+
+.lower-section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 850px;
+}
+
+/* box1 */
+.box1-img{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box11{
+    height: 115.85px;
+    width: 165.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop11.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+    z-index: 1;
+}
+.box12{
+    height: 115.85px;
+    width: 165.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop12.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+    z-index: 2;
+}
+.box13{
+    height: 115.85px;
+    width: 165.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop13.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+    z-index: 1;
+}
+.box14{
+    height: 115.85px;
+    width: 165.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop14.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+    z-index: 2;
+}
+/* box4 */
+.box41{
+    height: 303px;
+    width: 90%;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop4.jpg);
+    background-size: cover;
+    margin:16px 16px 20px 16px ;
+}
+
+/* box2 */
+.box2-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box21{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop21.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box22{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop22.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box23{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop23.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box24{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop24.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+
+/* box3 */
+.box3-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box31{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_CloneClone/images/shop31.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box32{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop32.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box33{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop33.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box34{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop34.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+
+/* box4 */
+.box41{
+    height: 303px;
+    width: 90%;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop4.jpg);
+    background-size: cover;
+    margin:16px 16px 20px 16px ;
+}
+
+/* box5 */
+.box51{
+    height: 303px;
+    width: 90%;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop5.jpg);
+    background-size: cover;
+    margin:16px 16px 20px 16px ;
+}
+
+/* box6 */
+.box61{
+    height: 303px;
+    width: 90%;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop6.jpg);
+    background-size: cover;
+    margin:16px 16px 20px 16px ;
+}
+
+/* box7 */
+.box7-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box71{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop71.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box72{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop72.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+.box73{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop73.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}Clone
+.box74{
+    height: 115.85px;
+    width: 145.75px;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop74.jpg);
+    background-size: cover;
+    margin:16px 0px 20px 0px ;
+}
+
+/* box8 */
+.box8{
+    background-color: white;
+}
+.box81{
+    height: 303px;
+    width: 90%;
+    background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop8.jpg);
+    background-size: cover;
+    margin:16px 16px 20px 16px ;
+}
+
+/* midile part of boxes */
+.upper1{
+    position: relative;
+    bottom: 168px;
+    left: 18px;
+}
+.upper2{
+    position: relative;
+    bottom: 181px;
+    left: 185px;
+}
+.lower1{
+    position: relative;
+    bottom: 42px;
+    left: 20px;
+}
+.lower2{
+    position: relative;
+    bottom: 55px;
+    left: 185px;
+}
+
+/* Lower part of boxes */
+.shop-more1{
+    position: relative;
+    font-size: 12px;
+    color:#007185;
+    bottom: 20px;
+    left: 18px;
+}
+.shop-more2{
+    font-size: 12px;
+    color:#007185;
+    margin: 18px;
+}
+
+/** footer section **/
+.foot-panale{
+    height: 50px;
+    background-color: #37475a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+.foot-panale2 {
+    background-color: #222f3d;
+    height: 280px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 35px 120px 35px 120px;
+}
+
+ul a{
+    display: block;
+    font-size: 14px;
+    margin: 10px 0px 10px 0px;
+    color: #dddddd;
+}
+
+ul p{
+    font-size: 16px;
+    margin: 6px 0px 14px;
+    font-weight: bolder;
+}
+
+.foot-panale3{
+    height: 68px;
+    background-color: #222f3d;
+    display: flex;
+    color: #dddddd;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top: 0.2px solid white;
+}
+
+.foot-content{
+    height: 33.38px;
+    width: 150.86px;
+    display: flex;
+    border : 1px solid white;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+.foot-content i{
+    margin-right: 10px;
+}
+.foot-content div{
+    margin-right: 10px;
+}
+
+.foot-panale4{
+    height:50px;
+    background-color: #0f1111;
+    color: #dddddd;
+    font-size: 12px;
+    padding: 50px;
+    text-align: center;
+}
+.pages a{
+    margin-right: 10px;
+}
+.copywrite{
+    text-align: center;
+    padding-top: 5px;
+}
