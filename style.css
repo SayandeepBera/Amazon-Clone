@@ -24,7 +24,11 @@
 }
 
 .logo{
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/amazon_logo.png);
+=======
+    background-image: url(/images/amazon_logo.png);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     height: 48px;
     width: 100px;
@@ -116,7 +120,11 @@
 .flag{
     height: 16.2px;
     width: 21.6px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/Flag.webp);
+=======
+    background-image: url(/images/Flag.webp);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
 }
 
@@ -199,7 +207,11 @@ span{
 .hero-section{
     height: 600px;
     width: 1500px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/hero1.jpg);
+=======
+    background-image: url(/images/hero1.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -282,7 +294,11 @@ span{
 .box11{
     height: 115.85px;
     width: 165.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop11.jpg);
+=======
+    background-image: url(/images/shop11.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
     z-index: 1;
@@ -290,7 +306,11 @@ span{
 .box12{
     height: 115.85px;
     width: 165.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop12.jpg);
+=======
+    background-image: url(/images/shop12.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
     z-index: 2;
@@ -298,7 +318,11 @@ span{
 .box13{
     height: 115.85px;
     width: 165.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop13.jpg);
+=======
+    background-image: url(/images/shop13.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
     z-index: 1;
@@ -306,7 +330,11 @@ span{
 .box14{
     height: 115.85px;
     width: 165.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop14.jpg);
+=======
+    background-image: url(/images/shop14.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
     z-index: 2;
@@ -315,7 +343,11 @@ span{
 .box41{
     height: 303px;
     width: 90%;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop4.jpg);
+=======
+    background-image: url(/images/shop4.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 16px 20px 16px ;
 }
@@ -329,28 +361,44 @@ span{
 .box21{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop21.jpg);
+=======
+    background-image: url(/images/shop21.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box22{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop22.jpg);
+=======
+    background-image: url(/images/shop22.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box23{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop23.jpg);
+=======
+    background-image: url(/images/shop23.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box24{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop24.jpg);
+=======
+    background-image: url(/images/shop24.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
@@ -364,28 +412,44 @@ span{
 .box31{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_CloneClone/images/shop31.jpg);
+=======
+    background-image: url(Clone/images/shop31.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box32{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop32.jpg);
+=======
+    background-image: url(/images/shop32.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box33{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop33.jpg);
+=======
+    background-image: url(/images/shop33.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box34{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop34.jpg);
+=======
+    background-image: url(/images/shop34.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
@@ -394,7 +458,11 @@ span{
 .box41{
     height: 303px;
     width: 90%;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop4.jpg);
+=======
+    background-image: url(/images/shop4.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 16px 20px 16px ;
 }
@@ -403,7 +471,11 @@ span{
 .box51{
     height: 303px;
     width: 90%;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop5.jpg);
+=======
+    background-image: url(/images/shop5.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 16px 20px 16px ;
 }
@@ -412,7 +484,11 @@ span{
 .box61{
     height: 303px;
     width: 90%;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop6.jpg);
+=======
+    background-image: url(/images/shop6.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 16px 20px 16px ;
 }
@@ -426,28 +502,44 @@ span{
 .box71{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop71.jpg);
+=======
+    background-image: url(/images/shop71.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box72{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop72.jpg);
+=======
+    background-image: url(/images/shop72.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
 .box73{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop73.jpg);
+=======
+    background-image: url(/images/shop73.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }Clone
 .box74{
     height: 115.85px;
     width: 145.75px;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop74.jpg);
+=======
+    background-image: url(/images/shop74.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 0px 20px 0px ;
 }
@@ -459,7 +551,11 @@ span{
 .box81{
     height: 303px;
     width: 90%;
+<<<<<<< HEAD
     background-image: url(/CSS\ Tutorial/Amazon_Clone/images/shop8.jpg);
+=======
+    background-image: url(/images/shop8.jpg);
+>>>>>>> 89f1cc9 (Modify the css file)
     background-size: cover;
     margin:16px 16px 20px 16px ;
 }
